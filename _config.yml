@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
-title                    : "C 프로그래밍"
+locale                   : "ko-KR"
+title                    : "다양한 프로그래밍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "최지욱"
-description              : "시스템 프로그램을 위한 C 언어"
+description              : "기본 Python /n 시스템 프로그램을 위한 C 언어"
 url                      : # the base hostname & protocol for your site e.g. "https://sunjiwook.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "sunjiwook/suniwook.github.io"
@@ -103,13 +103,13 @@ analytics:
 author:
   name             : "최지욱"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "C 언어 배우는 학생..."
-  location         : "고양시, 경기도, 대한민국"
+  bio              : "프로그래밍 구경하는 학생"
+  location         : "수원시, 경기도, 대한민국"
   email            : "sunjiwook@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mail to : sunjiwook@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
