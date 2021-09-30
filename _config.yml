@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "최지욱"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/jiwook.jpg"
   bio              : "프로그래밍 구경하는 학생"
   location         : "수원시, 경기도, 대한민국"
   email            : "sunjiwook@naver.com"
