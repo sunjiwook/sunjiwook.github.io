@@ -10,14 +10,14 @@ title: "급성장하는 전기차 시장"
 ---
 
 ### 현대 아이오닉5, G80, GV60  
-![Hyundai_ioniq_5](/assets/images/ioniq5.jfif)
+![Hyundai_ioniq_5](/assets/images/ioniq5.jfif)  
 위 차는 현대가 가장 처음 출시한 전기모터로만 구동되는 전기차로, 현대차와 기아차가 개발한 전기차 전용 플랫폼인 E-GMP가 적용되었다.  
 현대차는 아이오닉5를 출시한 이후, 전동화 버전 G80, GV60을 출시하며 전기차 시장에 주도적으로 참여하고 있다.  
 
 ---
 
 ### TESLA  
-![Tesla_model_s](/assets/images/tsla.jfif)
+![Tesla_model_s](/assets/images/tsla.jfif)  
 위 차는 테슬라의 모델 s로 2012년에 출시되어 지금까지 많은 변화를 거쳤다.  
 트라이 모터를 장착한 모델 s 플레이드 버전은 637km의 주행가능거리와 최대속도 322km/h, 제로백 2.1초의 성능을 지녀, 내연기관 스포츠카보다도 더 빠른 속도를 보인다. 
 이외에도 SUV인 모델 x와 모델 y, 중형세단인 모델 3 등 다양한 모델이 존재한다.  
@@ -25,7 +25,7 @@ title: "급성장하는 전기차 시장"
 ---
 
 ### Rivian  
-![Rivian_R1T](/assets/images/r1t.jfif)
+![Rivian_R1T](/assets/images/r1t.jfif)  
 위 차는 리비안이 출시한 R1T이다.  
 첫 전기모터 구동의 픽업트럭으로, 현재 5만 대 가량의 주문을 이미 받았다고 전해진다.  
 Rivian은 아마존과 포드가 투자한 기업으로, 테슬라와 같이 독자적인 충전 시스템 또한 구축할 것이라고 밝혔다. 
